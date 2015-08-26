@@ -1,0 +1,42 @@
+#header 
+{
+	background:  rgba(0,0,0,0.92);	
+	font-family: AbrilFatface-Regular;
+	font-size: 36px;
+	color: #F1F1F1;
+	line-height: 48px;
+	letter-spacing: 1px;
+}
+
+#content
+{
+	
+}
+#video_player
+{
+	background:#ccc;
+	min-width: 150px;
+	min-height: 100px;
+}
+#footer 
+{
+	background: #D9776F;
+	position:absolute;
+	bottom:0;
+	min-height:100px;
+    width: 100%;
+    text-align: center;
+}
+.call-to-action
+{
+    margin: auto;
+    background: #D9776F;
+    font-family: Optima-Regular;
+    color: #FFFFFF;
+    line-height: 51px;
+}
+
+.call-to-action h1
+{
+    font-size: 42px;
+}
